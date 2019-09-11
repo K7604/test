@@ -4,4 +4,4 @@
 
 > It is done in both Python and Java
 
-> It is also done in both a VM and an app engine
+> It is also done on both a VM and an app engine
