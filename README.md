@@ -6,7 +6,7 @@
 
 > It is also done on both a VM and an app engine
 
-# The Python Portion
+## The Python Portion
 
 > Python appengine https://diesal-skyline-251014.appspot.com/ click the 
 generate button to generate a number
@@ -14,4 +14,4 @@ generate button to generate a number
 > Python VM address http://35.193.134.15/  click the generate button to 
 generate a number
 
-# The Java Protion
+## The Java Protion
