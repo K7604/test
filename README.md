@@ -16,3 +16,5 @@ generate a number
 
 ## The Java Protion
 > Java Appengine https://random-252323.appspot.com/ Wait for it to load
+
+> Java VM http://34.69.197.21/
