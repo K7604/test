@@ -15,6 +15,7 @@ generate button to generate a number
 generate a number
 
 ## The Java Protion
-> Java Appengine https://random-252323.appspot.com/ Wait for it to load
+> Java Appengine https://random-252323.appspot.com/ Wait for it to load 
+and refresh to get new number
 
-> Java VM http://34.69.197.21/
+> Java VM http://34.69.197.21/ refresh to get new number
