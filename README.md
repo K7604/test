@@ -26,5 +26,5 @@ click ping. JSON file should now be on your desktop
 
 > For Mac users, download WINE to run exe files
 
-##Python finland
+## Python finland
 > https://35.228.36.139/
