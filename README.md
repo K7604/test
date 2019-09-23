@@ -21,4 +21,7 @@ and refresh to get new number
 > Java VM http://34.69.197.21/ refresh to get new number
 
 ## CSharpPing exe
+>To run, CSharpPing/bin/Debug/CSharpPing.exe type in all four ip then 
+click ping. JSON file should now be on your desktop
+
 > For Mac users, download WINE to run exe files
