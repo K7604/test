@@ -18,7 +18,7 @@ generate a number
 > Java Appengine https://random-252323.appspot.com/ Wait for it to load 
 and refresh to get new number
 
-> Java VM 34.69.197.21 refresh to get new number
+> Java VM 35.228.209.221 refresh to get new number
 
 ## CSharpPing exe
 >To run, CSharpPing/bin/Debug/CSharpPing.exe type in all four ip then 
@@ -28,3 +28,6 @@ click ping. JSON file should now be on your desktop
 
 ## Python finland
 > 35.228.36.139
+
+## Java finland
+> 35.228.209.221
