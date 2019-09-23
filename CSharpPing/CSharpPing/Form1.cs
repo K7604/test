@@ -78,6 +78,7 @@ namespace CSharpPing
             TextWriter tw = new StreamWriter(path, true);
             tw.WriteLine(json);
             tw.Close();
+            MessageBox.Show("PingList.json is now on your desktop", "Sucess");
         }
     }
 }
