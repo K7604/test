@@ -45,7 +45,7 @@ namespace CSharpPing
                     time = first.RoundtripTime.ToString()
                 });
             }
-            PingReply second = pingSender.Send(txtBox1.Text, timeout, buffer, options);
+            PingReply second = pingSender.Send(txtBox2.Text, timeout, buffer, options);
             if (second.Status == IPStatus.Success)
             {
                 pingResults.Add(new PingResult()
@@ -54,7 +54,7 @@ namespace CSharpPing
                     time = second.RoundtripTime.ToString()
                 });
             }
-            PingReply third = pingSender.Send(txtBox1.Text, timeout, buffer, options);
+            PingReply third = pingSender.Send(txtBox3.Text, timeout, buffer, options);
             if (third.Status == IPStatus.Success)
             {
                 pingResults.Add(new PingResult()
@@ -63,7 +63,7 @@ namespace CSharpPing
                     time = third.RoundtripTime.ToString()
                 });
             }
-            PingReply fourth = pingSender.Send(txtBox1.Text, timeout, buffer, options);
+            PingReply fourth = pingSender.Send(txtBox4.Text, timeout, buffer, options);
             if (fourth.Status == IPStatus.Success)
             {
                 pingResults.Add(new PingResult()
