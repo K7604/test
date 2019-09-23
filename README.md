@@ -19,3 +19,6 @@ generate a number
 and refresh to get new number
 
 > Java VM http://34.69.197.21/ refresh to get new number
+
+## CSharpPing exe
+> For Mac users, download WINE to run exe files
