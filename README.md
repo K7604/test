@@ -25,3 +25,6 @@ and refresh to get new number
 click ping. JSON file should now be on your desktop
 
 > For Mac users, download WINE to run exe files
+
+##Python finland
+> https://35.228.36.139/
